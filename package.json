@@ -1,0 +1,14 @@
+{
+  "name": "playstore-scraper-space",
+  "version": "1.0.0",
+  "description": "Play Store Search API for Aurora Store Indexer",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "google-play-scraper": "^8.1.0"
+  }
+}
